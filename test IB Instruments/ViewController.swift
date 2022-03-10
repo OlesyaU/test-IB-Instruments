@@ -10,7 +10,7 @@ import UIKit
 class ViewController: UIViewController {
 
    let nude = false
-    
+    let nude2 = true
     
     override func viewDidLoad() {
         super.viewDidLoad()
